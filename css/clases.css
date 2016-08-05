@@ -1,0 +1,37 @@
+/* Inserta tu codigo aqui */
+/*altura de fondo*/
+.hfoto{
+	height: 430px;
+	padding-top: 50%;
+}
+/*imegen de fondo*/
+#foto{
+	background-image: url(../img/dance_12.jpg);
+}
+#foto2{
+	background-image: url(../img/breakdance.jpg);	
+}
+#foto3{
+	background-image: url(../img/lirical-jazz.jpg);	
+}
+#foto4{
+	background-image: url(../img/arabe.jpg);	
+}
+#foto5{
+	background-image: url(../img/little.jpg);	
+}
+#foto6{
+	background-image: url(../img/yoga.jpg);	
+}
+/*estilo de cuaddro negro*/
+.cuadro{
+	width: 90%;
+	height: 130px;
+	padding: 30px;
+}
+h5{
+	margin-bottom: 20px;
+}
+section{
+	height: 1100px;
+}

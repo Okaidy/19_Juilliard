@@ -1,0 +1,54 @@
+/* Inserta tu codigo aqui */
+/*imagen de fondo principal*/
+.fondo{
+	background-image: url(../img/dance_7.jpg);
+	background-repeat: no-repeat;
+	border-top: 2px solid gray;
+	background-position:0% 38%;
+	background-size: 142%;
+}
+/*cuadro que contiene texto*/
+.cuadro{
+	width: 570px;
+	height: 200px;
+	padding: 30px;
+	margin-top: 110px;
+}
+/*fondo de oferta de pilares*/
+.textura{
+	background-image: url(../img/cubes.png);
+}
+/*altura de algunas secciones*/
+.h{
+	height: 350px;
+}
+/*padidin de pilares*/
+.pp{
+	padding:60px 200px;
+}
+hr{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.pl{
+	padding:0px 40px;
+}
+img{
+	width: 100%;
+}
+.foto{
+	height: 188px;
+	overflow: hidden;
+}
+h5{
+	margin-top: 20px; 
+	margin-bottom:10px;
+}
+/*altura e frase*/
+.ha{
+	height: 280px;
+}
+/*margen para acomodar frase*/
+.mgfr{
+	margin-top: 100px;
+}

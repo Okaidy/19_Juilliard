@@ -1,0 +1,115 @@
+/* Inserta tu codigo que es común para todas las páginas aqui */
+/*altura de encabezado*/
+header{
+	height: 150px;
+	background:white;
+	/*hacer el menu estatico*/
+}
+/*quita lo subrayao a los enlaces*/
+a{
+	text-decoration: none;
+}
+/*espacio entre enlaces*/
+header a{
+	padding:0px 30px;
+}
+header h1{
+	margin-top: 20px;
+}
+/*frases inspiradora*/
+.si35{
+	font-size: 45px;
+	font-style: italic;	
+}
+/*fondo azul*/
+.bg-blue{
+	background:#0B2161;
+}
+/*altura de contactanos*/
+.hcontacto{
+	height: 500px;
+}
+.zapatillas{
+	background-image: url(../img/shoes_1.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size:780px;
+}
+.pos{
+	margin-left: 10%;
+}
+.size14{
+	font-size: 14px;
+}
+.mgt{
+	margin-top: 2%;
+}
+/*ancho de elementos formulario*/
+.bdgris{
+	border: 2px lightgray solid;
+	margin-bottom: 7px;
+	width: 45%;
+}
+.in{
+	border:none;
+	width: 506px;
+	height: 50px;
+	background: none;
+}
+/*para mensaje de formulario*/
+#af{
+	height:150px; 
+}
+#men{
+	height:148px;
+}
+#v-a{
+	vertical-align: top;
+}
+input, textarea{
+	outline: none;
+}
+/*boton enviar*/
+.enviar{
+	background: #0B173B;
+	width: 535px;
+	border:1px #0B173B solid;
+	padding: 20px;
+}
+.s20{
+	font-size: 20px;
+}
+/*altura pie de pagina*/
+footer{
+	height: 70px;
+}
+.mgl{
+	margin-left: 20px;
+}
+/*alto de alguna seccion*/
+.alto{
+	height: 400px;
+}
+/*coloca opacidad*/
+.opaci{
+	background:rgba(0, 0, 0, 0.4);
+}
+/*centa botones*/
+.auto{
+	margin: auto;
+}
+/*tamaño de letra*/
+.size{
+	font-size: 25px;
+}
+.tgris{
+	color: #BDBDBD;
+}
+.inside{
+	border:1px lightgray solid;
+}
+/*padding de foto de instrutores*/
+.pf{
+	padding-left: 120px;
+	padding-right: 120px;
+}

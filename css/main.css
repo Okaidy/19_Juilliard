@@ -1,0 +1,68 @@
+/* Inserta tu codigo aqui */
+/*imagen de fondo principal*/
+.fondo{
+	background-image: url(../img/dance_1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+/*estilo de letra studio*/
+#letra{
+	font-size: 60px;
+	font-weight: bold;
+}
+.p{
+	width: 20%;
+}
+.boton{
+	background: #070719;
+	width: 150px;
+	padding: 10px;
+}
+/*fondo de oferta de clases*/
+.textura{
+	background-image: url(../img/textura_2.jpg);
+}
+/*tamaño de decoraciones*/
+.deco{
+	width: 130px;
+	margin-top: -25px;
+}
+/*estilo boton mas grande*/
+.botongde{
+	background:#0B173B;
+	width: 300px;
+	padding: 20px;
+}
+/*borde de fotos*/
+.fotos{
+	background-image: url(../img/instructor_4.jpg),url(../img/profesor_9.jpg);
+	background-position: left top, right top;
+	background-size:50% auto;
+	background-repeat: no-repeat;
+	border: 2px solid #070719 ;
+}
+.h{
+	height: 320px;
+}
+.gde{
+	background:#0B2161;
+	width: 500px;
+	padding: 30px;
+}
+
+/*margen*/
+.margen{
+	margin-top: 234px;
+}
+.pd30{
+	padding:100px 150px;
+}
+.pd5-10{
+	padding:80px;
+}
+.mgt5{
+	margin-top: 5%;
+}
+.mgt12{
+	margin-top: 12%;
+}
